@@ -15,7 +15,7 @@ This dataset contains information on the status of refugee applications from 201
 
 **In order to protect individual refugees' personal information and prevent identification, countries with less than 100 applications for refugee recognition are marked as Other.**
 
-## Dataset Details
+### Dataset Details
 * country name: Nationality of the person applying for refugee status
 * refugee claimant: 
 Number of people who applied for refugee migration
