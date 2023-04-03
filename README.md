@@ -17,9 +17,9 @@ I'm freely welcoming your feedback!
 - [Kaggle Link](https://www.kaggle.com/datasets/hongseoi/health-checkup-result)
 - [Source Link](https://www.data.go.kr/data/15007122/fileData.do#tab-layer-file)
 
-## Car accidents by Perpetrator age
+## Traffic accidents by Perpetrator age
 - Traffic accident statistics by perpetrator age provided by Korea Road Traffic Authority
 - Last Updated on 2023.03.10.
-- [See Detailed]()
+- [See Detailed](https://github.com/hongseoi/KaggleDatasets/tree/main/Traffic%20accidents%20by%20Perpetrator%20age)
 - [Kaggle Link](https://www.kaggle.com/datasets/hongseoi/traffic-accidents-by-perpetrator-age)
 - [Source Link](https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=15070183#/layer_data_infomation)
