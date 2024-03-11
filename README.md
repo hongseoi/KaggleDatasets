@@ -23,3 +23,11 @@ I'm freely welcoming your feedback!
 - [See Detailed](https://github.com/hongseoi/KaggleDatasets/tree/main/Traffic%20accidents%20by%20Perpetrator%20age)
 - [Kaggle Link](https://www.kaggle.com/datasets/hongseoi/traffic-accidents-by-perpetrator-age)
 - [Source Link](https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=15070183#/layer_data_infomation)
+
+## Deaths in the Korean military (1903~2021)
+- Statistics on causes of death in the military in South Korea by Department of Defense
+- Last updated 2023.05.22
+- [See Detailed]()
+- [Kaggle Link]()
+- [Source Link](https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1701)
+
